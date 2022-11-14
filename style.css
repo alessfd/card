@@ -1,0 +1,92 @@
+body {
+    font-size:small;
+    text-align: center;
+    font-family:'Segoe UI';
+    background-color: rgb(230, 230, 230);
+}
+
+p {
+  font-weight: 500;
+}
+  
+.container button:hover {
+  color: cyan;
+}
+  
+#lmao {
+  margin:auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width:600px;
+  box-shadow:0 5px 15px gray;
+  border-radius:10px;
+  background-color:white;
+  padding: 30px;
+}
+
+#info {
+  margin:auto;
+  width:500px;
+  padding-bottom: 15px;
+  text-align: justify;
+}
+
+#pic {
+  margin:auto;
+  margin-top:10px;
+  width:200px;
+  box-shadow:0 0 15px gray;
+  border-radius:5px;
+  background-color:white;
+  padding-bottom: 15px;
+}
+
+#xd{
+  margin: auto;
+}
+
+#contact {
+  font-weight: 600;
+  background-color: rgb(0, 0, 0);
+  border: none;
+  border-radius:20px;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.socialbtn {
+  background-color: black;
+  height: 45px;
+  width: 45px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 1px;
+  margin: 5px;
+}
+
+#cv {
+  cursor: pointer;
+  color: black;
+}
+
+#contact:hover {
+  font-weight: 600;
+  background-color: rgb(44, 139, 203);
+}
+
+#twitter:hover {
+  background-color: rgb(44, 139, 203);
+}
+
+#youtube:hover {
+  background-color: rgb(204, 49, 49);
+}
+
+#github:hover {
+  background-color: rgb(160, 160, 160);
+}
